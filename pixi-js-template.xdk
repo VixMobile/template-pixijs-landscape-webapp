@@ -6,7 +6,7 @@
       "projectTypeName": "com.intel.xdk.projecttype.jsapp",
       "src": "blankproject",
       "projectGuid": "5442d5d1-fd9c-42e1-a49c-0579a144d257",
-      "lastModifiedDate": 1416301233649,
+      "lastModifiedDate": 1416487539751,
       "creationDate": 1416192343784
     },
     "sourceDirectory": "www",
@@ -54,7 +54,8 @@
         "name_": "Android",
         "preferences_": {
           "android-minSdkVersion": "10",
-          "android-targetSdkVersion": "19"
+          "android-targetSdkVersion": "19",
+          "Fullscreen": true
         },
         "isActive_": true,
         "appName_": "pixi-js-template",
@@ -78,7 +79,8 @@
         "name_": "Android-Crosswalk",
         "preferences_": {
           "android-minSdkVersion": "14",
-          "android-targetSdkVersion": "19"
+          "android-targetSdkVersion": "19",
+          "Fullscreen": true
         },
         "isActive_": true,
         "appName_": "pixi-js-template",
@@ -102,7 +104,8 @@
         "name_": "iOS",
         "preferences_": {
           "ios-target": "5",
-          "ios-configuration": "adhoc"
+          "ios-configuration": "adhoc",
+          "Fullscreen": true
         },
         "isActive_": true,
         "appName_": "pixi-js-template",
@@ -124,7 +127,8 @@
         "name_": "Windows8",
         "preferences_": {
           "windows-publisher-display-name": "",
-          "windows-publisher-id": ""
+          "windows-publisher-id": "",
+          "Fullscreen": true
         },
         "isActive_": true,
         "appName_": "pixi-js-template",
