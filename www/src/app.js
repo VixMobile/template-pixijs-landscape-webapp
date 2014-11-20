@@ -8,7 +8,6 @@ document.addEventListener('DOMContentLoaded', function(){
     // for retina display, set resolution to 2
     var width = screen.availWidth;
     var height = screen.availHeight;
-    console.log(width, height);
     var renderer = PIXI.autoDetectRenderer(width, height, {resolution: 1});
 
     // add the renderer view element to the DOM
