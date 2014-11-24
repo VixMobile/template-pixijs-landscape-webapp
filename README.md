@@ -6,7 +6,7 @@ This template can be used for creating an Intel XDK game app using Pixi renderin
 
 Intel(R) XDK
 -------------------------------------------
-This templete is part of the Intel(R) XDK. 
+This template is part of the Intel(R) XDK. 
 Download the Intel XDK at http://software.intel.com/en-us/html5.
 
 Application Files
