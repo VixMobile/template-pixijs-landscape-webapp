@@ -30,6 +30,14 @@
       }
     ],
     "serviceMethods": [],
+    "gameAssetDirectory": "www",
+    "gameMetadata": {
+        "gameEngineName": "pixi",
+        "gameEngineVersion": "1.6"
+    },
+    "projectTags": [
+        "XDK-game-app"
+    ],
     "cordovaPluginsDirectory": "plugins",
     "cordovaPlugins": [
       {
