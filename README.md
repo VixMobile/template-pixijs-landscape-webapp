@@ -2,7 +2,7 @@
 
 See [LICENSE.md]() for license terms and conditions.
 
-This template can be used for creating an Intel XDK game app using Pixi rendering engine. It is a blank Pixi.js project, which contains the required files. To get start, please see the key file `pixi.dev.js`.
+This template can be used for creating an Intel XDK game app using Pixi rendering engine. It is a blank Pixi.js project, which contains the required files. To get start, please see the key file `app.js`.
 
 Intel(R) XDK
 -------------------------------------------
