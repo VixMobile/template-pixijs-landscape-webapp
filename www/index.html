@@ -22,11 +22,15 @@
         @-ms-viewport { user-zoom: fixed ; }                                    @viewport { user-zoom: fixed ; }
         /*@-ms-viewport { user-zoom: zoom ; min-zoom: 100% ; max-zoom: 200% ; }   @viewport { user-zoom: zoom ; min-zoom: 100% ; max-zoom: 200% ; }*/
     </style>
-    
+    <!-- Load & initialize cordova library -->
+    <script src="cordova.js"></script>
+    <script src="src/corodva-init.js"></script>
+    <!-- Load Pixi.js Engine -->
     <script src="lib/pixi.js"></script>
 
 </head>
 <body style="padding:0; margin: 0; overflow:hidden;">
+    <!-- Main game -->
     <script src="src/app.js"></script>
 </body>
 </html>
