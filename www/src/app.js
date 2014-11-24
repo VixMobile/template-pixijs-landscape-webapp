@@ -5,10 +5,9 @@ document.addEventListener('DOMContentLoaded', function(){
     var stage = new PIXI.Stage(0x66FF99);
 
     // create a renderer instance
-    // for retina display, set resolution to 2
     var width = screen.availWidth;
     var height = screen.availHeight;
-    var renderer = PIXI.autoDetectRenderer(width, height, {resolution: 1});
+    var renderer = PIXI.autoDetectRenderer(width, height);
 
     // add the renderer view element to the DOM
     document.body.appendChild(renderer.view);
