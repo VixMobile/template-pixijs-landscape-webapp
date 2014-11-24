@@ -6,10 +6,10 @@
       "projectTypeName": "com.intel.xdk.projecttype.jsapp",
       "src": "blankproject",
       "projectGuid": "5442d5d1-fd9c-42e1-a49c-0579a144d257",
-      "lastModifiedDate": 1416487539751,
+      "lastModifiedDate": 1416818497593,
       "creationDate": 1416192343784
     },
-    "sourceDirectory": "asset",
+    "sourceDirectory": "www",
     "startFile": "index.html",
     "projectFiles": {},
     "projectDirectories": {},
@@ -30,13 +30,13 @@
       }
     ],
     "serviceMethods": [],
-    "gameAssetDirectory": "www",
+    "gameAssetDirectory": "asset",
     "gameMetadata": {
-        "gameEngineName": "pixi",
-        "gameEngineVersion": "1.6"
+      "gameEngineName": "pixi",
+      "gameEngineVersion": "1.6"
     },
     "projectTags": [
-        "XDK-game-app"
+      "XDK-game-app"
     ],
     "cordovaPluginsDirectory": "plugins",
     "cordovaPlugins": [
@@ -64,7 +64,7 @@
           "android-minSdkVersion": "10",
           "android-targetSdkVersion": "19",
           "Fullscreen": true,
-          "Orientation": "landspace"
+          "Orientation": "landscape"
         },
         "isActive_": true,
         "appName_": "pixi-js-template",
@@ -90,7 +90,7 @@
           "android-minSdkVersion": "14",
           "android-targetSdkVersion": "19",
           "Fullscreen": true,
-          "Orientation": "landspace"
+          "Orientation": "landscape"
         },
         "isActive_": true,
         "appName_": "pixi-js-template",
@@ -116,7 +116,7 @@
           "ios-target": "5",
           "ios-configuration": "adhoc",
           "Fullscreen": true,
-          "Orientation": "landspace"
+          "Orientation": "landscape"
         },
         "isActive_": true,
         "appName_": "pixi-js-template",
@@ -140,7 +140,7 @@
           "windows-publisher-display-name": "",
           "windows-publisher-id": "",
           "Fullscreen": true,
-          "Orientation": "landspace"
+          "Orientation": "landscape"
         },
         "isActive_": true,
         "appName_": "pixi-js-template",
@@ -174,14 +174,6 @@
         "crosswalkVersion_": "stable",
         "appVersion_": "1.0.0.0"
       }
-    },
-    "gameAssetDirectory": "asset",
-    "gameMetadata": {
-      "gameEngineName": "",
-      "gameEngineVersion": ""
-    },
-    "projectTags": [
-      "XDK-game-app"
-    ]
+    }
   }
 }
