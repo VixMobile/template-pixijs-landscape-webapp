@@ -167,7 +167,7 @@
         "appVersion_": "1.0.0.0"
       }
     },
-    "gameAssetDirectory": "kenny_test_asset",
+    "gameAssetDirectory": "asset",
     "gameMetadata": {
       "gameEngineName": "",
       "gameEngineVersion": ""
