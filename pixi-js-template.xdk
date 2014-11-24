@@ -9,7 +9,7 @@
       "lastModifiedDate": 1416487539751,
       "creationDate": 1416192343784
     },
-    "sourceDirectory": "asset",
+    "sourceDirectory": "www",
     "startFile": "index.html",
     "projectFiles": {},
     "projectDirectories": {},
@@ -30,7 +30,7 @@
       }
     ],
     "serviceMethods": [],
-    "gameAssetDirectory": "www",
+    "gameAssetDirectory": "asset",
     "gameMetadata": {
         "gameEngineName": "pixi",
         "gameEngineVersion": "1.6"
