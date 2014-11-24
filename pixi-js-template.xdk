@@ -55,7 +55,8 @@
         "preferences_": {
           "android-minSdkVersion": "10",
           "android-targetSdkVersion": "19",
-          "Fullscreen": true
+          "Fullscreen": true,
+          "Orientation": "landspace"
         },
         "isActive_": true,
         "appName_": "pixi-js-template",
@@ -80,7 +81,8 @@
         "preferences_": {
           "android-minSdkVersion": "14",
           "android-targetSdkVersion": "19",
-          "Fullscreen": true
+          "Fullscreen": true,
+          "Orientation": "landspace"
         },
         "isActive_": true,
         "appName_": "pixi-js-template",
@@ -105,7 +107,8 @@
         "preferences_": {
           "ios-target": "5",
           "ios-configuration": "adhoc",
-          "Fullscreen": true
+          "Fullscreen": true,
+          "Orientation": "landspace"
         },
         "isActive_": true,
         "appName_": "pixi-js-template",
@@ -128,7 +131,8 @@
         "preferences_": {
           "windows-publisher-display-name": "",
           "windows-publisher-id": "",
-          "Fullscreen": true
+          "Fullscreen": true,
+          "Orientation": "landspace"
         },
         "isActive_": true,
         "appName_": "pixi-js-template",
@@ -162,6 +166,14 @@
         "crosswalkVersion_": "stable",
         "appVersion_": "1.0.0.0"
       }
-    }
+    },
+    "gameAssetDirectory": "kenny_test_asset",
+    "gameMetadata": {
+      "gameEngineName": "",
+      "gameEngineVersion": ""
+    },
+    "projectTags": [
+      "XDK-game-app"
+    ]
   }
 }

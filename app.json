@@ -1,0 +1,20 @@
+{
+  "repoName": "pixi-js-landspace-template",
+  "sourceURL": "",
+  "title": "Pixi-JS Game Landspace Template",
+  "abbr": "",
+  "tooltip": "A blank template for creating games from Pixi-js",
+  "type": "",
+  "description": "Use this template to start with a blank landspace Game from Pixi-js",
+  "keywords": [ "Blank Project","Game" ],
+  "visible": true,
+  "highlights": ["Pixi", "Game"],
+  "articleUrl": "",
+  "iconUrl": "",
+  "screenshotUrl": "",
+  "zipUrl": "",
+  "appPreview": false,
+  "appName": "",
+  "relName": "",
+  "mobile": false
+}
