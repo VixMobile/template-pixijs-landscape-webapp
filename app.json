@@ -7,7 +7,7 @@
   "type": "",
   "description": "Use this template to start with a blank landscape Game from Pixi.js",
   "keywords": [ "Blank Project","Game" ],
-  "visible": true,
+  "visible": "false",
   "highlights": ["Pixi", "Game"],
   "articleUrl": "",
   "iconUrl": "",
