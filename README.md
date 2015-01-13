@@ -1,4 +1,3 @@
-
 # Blank Pixi.js Project
 
 See [LICENSE.md]() for license terms and conditions.
@@ -22,4 +21,3 @@ Application Files
 * lib/pixi.js
 * lib/pixi.dev.js
 * src/app.js
-* src/cordova-init.js
