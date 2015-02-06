@@ -221,7 +221,10 @@
       }
     },
     "gameAssetDirectory": "asset",
-    "gameMetadata": {},
+    "gameMetadata": {
+      "gameEngineName": "Pixi",
+      "gameEngineVersion": "1.6.1"
+    },
     "projectTags": [
       "XDK-game-app"
     ]
