@@ -7,14 +7,17 @@
   "type": "",
   "description": "Use this template to start with a blank landscape Game from Pixi.js",
   "keywords": [ "Blank Project","Game" ],
-  "visible": "false",
+  "visible": "true",
   "highlights": ["Pixi", "Game"],
   "articleUrl": "",
   "iconUrl": "",
   "screenshotUrl": "",
   "zipUrl": "",
-  "appPreview": false,
+  "appPreview": "false",
   "appName": "",
   "relName": "",
-  "mobile": false
+  "mobile": "false",
+  "relationship": "pixijs",
+  "gameEngine": { "name": "pixijs" },
+  "projectTypeName": "com.intel.xdk.projecttype.webapp"
 }
