@@ -1,23 +1,31 @@
 {
-  "repoName": "template-pixijs-landscape",
-  "sourceURL": "",
-  "title": "Pixi.js Game Landscape Template",
-  "abbr": "",
-  "tooltip": "A blank template for creating games from Pixi.js",
-  "type": "",
-  "description": "Use this template to start with a blank landscape Game from Pixi.js",
-  "keywords": [ "Blank Project","Game" ],
-  "visible": "true",
-  "highlights": ["Pixi", "Game"],
-  "articleUrl": "",
-  "iconUrl": "",
-  "screenshotUrl": "",
-  "zipUrl": "",
-  "appPreview": "false",
-  "appName": "",
-  "relName": "",
-  "mobile": "false",
-  "relationship": "pixijs",
-  "gameEngine": { "name": "pixijs" },
-  "projectTypeName": "com.intel.xdk.projecttype.webapp"
+   "zipUrl" : "",
+   "gameEngine" : {
+      "name" : "pixijs"
+   },
+   "title" : "Pixi.js Game Landscape Template",
+   "appPreview" : false,
+   "relName" : null,
+   "description" : "Use this template to start with a blank landscape Game from Pixi.js",
+   "tooltip" : "A blank template for creating games from Pixi.js",
+   "visible" : true,
+   "relationship" : "pixijs",
+   "abbr" : "",
+   "highlights" : [
+      "Pixi",
+      "Game"
+   ],
+   "mobile" : false,
+   "screenshotUrl" : "",
+   "articleUrl" : null,
+   "projectTypeName" : "com.intel.xdk.projecttype.webapp",
+   "type" : "",
+   "iconUrl" : "",
+   "repoName" : "template-pixijs-landscape",
+   "keywords" : [
+      "Blank Project",
+      "Game"
+   ],
+   "sourceURL" : "",
+   "appName" : null
 }
