@@ -21,7 +21,7 @@
    "projectTypeName" : "com.intel.xdk.projecttype.webapp",
    "type" : "",
    "iconUrl" : "",
-   "repoName" : "template-pixijs-landscape",
+   "repoName" : "template-pixijs-landscape-webapp",
    "keywords" : [
       "Blank Project",
       "Game"
