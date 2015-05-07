@@ -8,6 +8,8 @@
    "relName" : null,
    "description" : "Use this template to start with a blank landscape Game from Pixi.js",
    "tooltip" : "A blank template for creating games from Pixi.js",
+   "section" : "templates",
+   "group" : "games",
    "visible" : true,
    "relationship" : "pixijs",
    "abbr" : "",
