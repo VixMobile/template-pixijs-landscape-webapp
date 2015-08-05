@@ -1,3 +1,5 @@
+/* jshint browser:true */
+/* globals PIXI, requestAnimFrame */
 (function() {
 
     document.addEventListener('DOMContentLoaded', function() {
