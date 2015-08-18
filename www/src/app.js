@@ -1,20 +1,20 @@
 /* jshint browser:true */
-/* globals PIXI, requestAnimFrame */
+/* globals PIXI, requestAnimationFrame */
 (function() {
 
     document.addEventListener('DOMContentLoaded', function() {
         // create an new instance of a pixi stage
-        var stage = new PIXI.Stage(0x66FF99);
+        var stage = new PIXI.Container();
 
         // create a renderer instance
         var width = screen.availWidth;
         var height = screen.availHeight;
-        var renderer = PIXI.autoDetectRenderer(width, height);
+        var renderer = new PIXI.autoDetectRenderer(width, height, {backgroundColor : 0x66FF99});
 
         // add the renderer view element to the DOM
         document.body.appendChild(renderer.view);
 
-        requestAnimFrame(animate);
+        requestAnimationFrame(animate);
 
         // create a texture from an image path
         var texture = PIXI.Texture.fromImage("asset/bunny.png");
@@ -33,7 +33,7 @@
         stage.addChild(bunny);
 
         function animate() {
-            requestAnimFrame(animate);
+            requestAnimationFrame(animate);
 
             // just for fun, let's rotate mr rabbit a little
             bunny.rotation += 0.1;

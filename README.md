@@ -19,5 +19,6 @@ Application Files
 * index.html
 * assets/
 * lib/pixi.js
-* lib/pixi.dev.js
+* lib/pixi.min.js
+* lib/LICENSE
 * src/app.js
