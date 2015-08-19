@@ -1,7 +1,7 @@
 {
    "zipUrl" : "",
    "gameEngine" : {
-      "name" : "pixijs"
+      "name" : "pixijs" , "version" : "3.0.7"
    },
    "title" : "Pixi.js Game Landscape Template",
    "appPreview" : false,

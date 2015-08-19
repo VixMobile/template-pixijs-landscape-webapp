@@ -1,6 +1,6 @@
 {
     "project": {
-        "projectSettingsVersion": 1.2,
+        "projectSettingsVersion": "1.2",
         "creationData": {
             "projectTypeName": "com.intel.xdk.projecttype.webapp",
             "src": "",
